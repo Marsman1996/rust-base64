@@ -1,0 +1,20 @@
+src/engine/general_purpose/mod.rs
+  s_b96e7ff7a0a04d::t_f5ff213681b6a9 332
+  s_b96e7ff7a0a04d::t_35a2b3d1144e52 388,391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "f2196cbdf72c7080cdd51d1a0bc7fd4d5786107e",
+  "prompts": {},
+  "sessions": {
+    "s_b96e7ff7a0a04d": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "dac98c5b-e65b-4800-822a-aa29ef26e8dd",
+        "model": "glink/GLM-5.3-Flash:glink_domestic"
+      },
+      "human_author": "Marsman1996 <lqliuyuwei@outlook.com>"
+    }
+  }
+}
